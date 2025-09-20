@@ -1,0 +1,1 @@
+# sql-medium-hackerrank-questions
