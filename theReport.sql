@@ -10,7 +10,7 @@ with student_grade as (select name, marks,
         when marks >=20 then 3
         when marks >=10 then 2
         else 1
-    end grade
+    end grade 
 from students)
 
 
